@@ -1,0 +1,5 @@
+/venv_documentation
+.env
+chroma_store/*
+!chroma_store/.gitkeep
+
